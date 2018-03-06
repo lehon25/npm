@@ -1,4 +1,25 @@
 {
-  "name": "npm",
-  "version": "1.0.0"
+  "name": "kalkulator",
+  "version": "1.0.0",
+  "description": "\"ini hanya belajar membuat package npm\"",
+  "main": "kalkulator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehon25/npm.git"
+  },
+  "keywords": [
+    "kalkulator",
+    "belajar",
+    "function",
+    "modul"
+  ],
+  "author": "lehon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lehon25/npm/issues"
+  },
+  "homepage": "https://github.com/lehon25/npm#readme"
 }
