@@ -1,5 +1,5 @@
 {
-  "name": "kalkulator",
+  "name": "npm",
   "version": "1.0.0",
   "description": "\"ini hanya belajar membuat package npm\"",
   "main": "kalkulator.js",
